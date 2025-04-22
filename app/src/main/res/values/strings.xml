@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minimalist Launcher</string>
+    <string name="add_app">Add App</string>
+    <string name="select_app">Select App</string>
+    <string name="phone">Phone</string>
+    <string name="camera">Camera</string>
+</resources> 
